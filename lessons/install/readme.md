@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-Pythob 3, because its the most updated version.
+Python 3, because its the most updated version.
 
 ### Q2. Which Python Version Installed   
 
