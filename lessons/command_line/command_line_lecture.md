@@ -120,6 +120,7 @@ Now nothing shows up on the screen. List the files and see if you can tell
 why.
 
 > Hint: we learned how to list all the files up above.
+> ANSWER: Saved within our current directory, in a txt file.
 
 The greater than says, "put that output into the following file instead."
 
