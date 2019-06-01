@@ -197,6 +197,8 @@ ls -lh
 
 > What changed?
 
+> ANSWER: The units changed to K for the file sizes.
+
 If instead copying we just want to change the name of a file, we can do:
 
 
